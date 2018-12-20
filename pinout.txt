@@ -1,0 +1,13 @@
+/*
+пины
+EN-L			PA1
+BUSY			PA2
+GND	
+GND
++UBAT
+SCL-L (SCK)		PE13
+SDI-L (MOSI)	        PE15
+RS-L			PE10
+CNTRL-L			PE11
+RESET-L			PA3
+*/
